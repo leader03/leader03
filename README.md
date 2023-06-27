@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Acetro**
 
-- 🌱 I’m currently learning **React Native and Django**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://acetechnepal.com](https://acetechnepal.com)
 
-- 💬 Ask me about **React js**
+- 💬 Ask me about **Next js**
 
 - 📫 How to reach me **subedibibek2000@gmail..com**
 
